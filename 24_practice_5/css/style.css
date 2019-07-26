@@ -49,6 +49,7 @@ p {
 
 .main-content-section {
 	font-size: 0px;
+	text-align: center;
 }
 
 .main-content-section p {
@@ -64,7 +65,7 @@ p {
 	height: auto;
 	background-color: #f4dea8;
 	border: 1px solid transparent;
-	box-sizing: border-box;
+	box-sizing: border-box;	
 }
 
 .service-one-container {
