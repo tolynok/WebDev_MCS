@@ -1,0 +1,99 @@
+@import url(reset.css);
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Source+Sans+Pro&display=swap');
+
+h1 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: white;
+	line-height: 60px;
+	margin-left: 5px;
+}
+
+h2 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 1px;	
+}
+
+p {
+	font-family: 'Merriweather', serif;
+	font-size: 10px;
+}
+
+.header {
+	height: 60px;
+	background-color: #f4dea8;
+}
+
+.header-container {
+	height: 60px;
+	width: 100%;
+	border: 1px solid transparent;
+	box-sizing: border-box;
+	background-color: #b15644;
+	position: fixed;
+	top: 0;
+
+}
+
+.footer-container {
+	height: 60px;
+	border: 1px solid transparent;
+	box-sizing: border-box;
+	background-color: #b15644;
+}
+
+.main-content-section {
+	font-size: 0px;
+}
+
+.main-content-section p {
+	margin: 10px;
+	line-height: 20px;
+}
+
+.main-content-section h2 {
+	margin: 10px;
+}
+
+.main-content {
+	height: auto;
+	background-color: #f4dea8;
+	border: 1px solid transparent;
+	box-sizing: border-box;
+}
+
+.service-one-container {
+	box-shadow: 0px 0px 5px grey;
+	border: 1px solid transparent;
+	box-sizing: border-box;
+	width: 200px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 10px;
+
+}
+
+.service-two-container {
+	box-shadow: 0px 0px 5px grey;
+	border: 1px solid transparent;
+	box-sizing: border-box;
+	width: 200px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 10px;
+}
+
+.service-three-container {
+	box-shadow: 0px 0px 5px grey;
+	border: 1px solid transparent;
+	box-sizing: border-box;
+	width: 200px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 10px;
+}
